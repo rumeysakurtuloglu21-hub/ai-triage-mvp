@@ -1,0 +1,56 @@
+
+### ACİL DURUM (KIRMIZI ALAN) PROTOKOLLERİ ###
+1. Kalp Krizi Belirtileri: Göğüste sıkışma, sol kola yayılan ağrı, soğuk terleme. Müdahale: Hemen 112 aranmalı.
+2. İnme (Felç): Yüzde kayma, konuşma bozukluğu, kollarda güç kaybı. Müdahale: Zaman kritiktir, acil servis.
+3. Ağır Kanama: Durdurulamayan fışkırır tarzda kanamalar acil müdahale gerektirir.
+4. Solunum Yolu Tıkanması: Nefes alamama, morarma, konuşamama. Heimlich manevrası gerekebilir.
+
+### DAHİLİYE VE GENEL ŞİKAYETLER ###
+1. Yüksek Ateş: 38.5 derece ve üzeri yetişkinlerde enfeksiyon belirtisi olabilir. Bol sıvı ve dinlenme önerilir.
+2. Mide Ağrısı (Gastrit/Ülser): Yanma hissi, aç karnına artan ağrı. Dahiliye veya Gastroenteroloji uzmanına gidilmeli.
+3. Diyabet Belirtileri: Aşırı susama, sık idrara çıkma, açıklanamayan kilo kaybı.
+4. Hipertansiyon (Yüksek Tansiyon): Ense kökünde ağrı, baş dönmesi, burun kanaması.
+
+### ÇOCUK SAĞLIĞI (PEDİATRİ) ###
+1. Çocuklarda Kusma ve İshal: Dehidrasyon (sıvı kaybı) riski çok yüksektir. Göz kürelerinde çökme varsa acildir.
+2. Döküntülü Hastalıklar: Suçiçeği, kızamık gibi durumlarda çocuk izole edilmeli ve pediatriye başvurulmalı.
+
+### KESİKLER VE YARALANMALAR ###
+1. Paslı Çivi/Metal Kesikleri: Tetanos aşısı kontrol edilmeli, yara sabunlu suyla yıkanmalıdır.
+2. Yanıklar: 1. derece yanıklarda sadece soğuk su tutulmalı, asla diş macunu veya yağ sürülmemelidir.
+### KULAK BURUN BOĞAZ (KBB) ###
+1. Şiddetli Boğaz Ağrısı ve Yutkunma Güçlüğü: Bademcik iltihabı veya farenjit belirtisi olabilir. KBB uzmanına gidilmeli.
+2. Kulak Çınlaması ve İşitme Kaybı: Ani gelişen durumlarda vakit kaybetmeden KBB muayenesi gerekir.
+3. Burun Kanaması: Baş öne eğilerek burun kanatları sıkılmalı, durmuyorsa acile başvurulmalı.
+
+### GÖZ HASTALIKLARI ###
+1. Gözde Kızarıklık ve Çapaklanma: Konjonktivit (göz iltihabı) olabilir. Bulaşıcı riski vardır, Göz hastalıklarına gidilmeli.
+2. Işık Çakmaları ve Sinek Uçuşmaları: Göz arkası (retina) sorunları belirtisi olabilir, acil göz muayenesi gerekir.
+
+### DERMATOLOJİ (CİLDİYE) ###
+1. Şiddetli Kaşıntı ve Yaygın Döküntü: Alerjik reaksiyon veya uyuz gibi durumlar olabilir. Cildiye uzmanına gidilmeli.
+2. Şüpheli Ben Değişimleri: Şekli bozulan, rengi değişen veya kanayan benler dermatolog tarafından incelenmelidir.
+
+### ENFEKSİYON VE GENEL ###
+1. Geçmeyen Öksürük ve Balgam: Alt solunum yolu enfeksiyonu veya bronşit riski için Göğüs Hastalıkları veya Dahiliye bakmalıdır.
+2. İshal ve Karın Krampları: Gıda zehirlenmesi veya bağırsak enfeksiyonu belirtisidir. Bol sıvı alımı önemlidir.
+
+### NÖROLOJİ ###
+1. Ani ve Şiddetli Baş Ağrısı: "Hayatımın en kötü ağrısı" şeklinde tanımlanan ani ağrılar Nöroloji veya Acil servis gerektirir.
+2. Baş Dönmesi ve Denge Kaybı: Vertigo veya iç kulak sorunları olabilir, Nöroloji muayenesi önerilir.
+### KRİTİK KIRMIZI BAYRAKLAR (ACİL DURUMLAR) ###
+1. Göğüs Ağrısı ve Yayılım: Göğüste baskı hissi, ağrının sol kola, çeneye veya sırta yayılması doğrudan Kalp Krizi (MI) belirtisidir. Acil 112 aranmalıdır.
+2. Nörolojik Kayıplar: Vücudun bir tarafında uyuşma, yüzde kayma, kelimeleri karıştırma veya ani görme kaybı İnme (Felç) işaretidir. Müdahale süresi kritiktir.
+3. Solunum Yetmezliği: Konuşurken nefes nefese kalma, dudaklarda morarma ve hırıltılı solunum ciddi Astım atağı veya Akciğer Ödemi belirtisidir.
+
+### ÇOCUK VE BEBEK SAĞLIĞI ###
+1. Febril Konvülsiyon: Çocuklarda yüksek ateşe bağlı havale geçirme durumunda çocuk yan yatırılmalı, ağzına bir şey sokulmamalı ve acil yardım istenmelidir.
+2. Dehidrasyon: İshal veya kusma sonrası bebeklerde göz kürelerinin çökmesi ve idrar çıkışının azalması acil sıvı takviyesi gerektirir.
+
+### KAZA VE YARALANMALAR ###
+1. Kafa Travması: Çarpma sonrası kusma, uyku hali veya hafıza kaybı beyin kanaması riski taşır. En az 24 saat gözlem altında tutulmalıdır.
+2. Kimyasal Yanıklar: Kimyasal madde temasında bölge en az 20 dakika tazyiksiz bol su ile yıkanmalıdır.
+
+### DAHİLİYE VE METABOLİZMA ###
+1. Diyabetik Komo: Şeker hastalarında aşırı susama, ağızda meyve kokusu ve bilinç bulanıklığı yüksek şeker koması (Ketoasidoz) belirtisidir.
+2. Karın Ağrısı (Akut Batın): Sağ alt karın bölgesinde şiddetli ağrı, üzerine basınca artan acı Apandisit belirtisidir, Genel Cerrahi bakmalıdır.
