@@ -1,21 +1,21 @@
-# 🏥 AI Triage System
+# 🏥 AI Triage Sistemi
 
-An AI-powered intelligent medical pre-assessment system.
+Yapay zeka destekli akıllı sağlık ön değerlendirme sistemi.
 
-## 🚀 About the Project
+## 🚀 Proje Hakkında
 
-AI Triage analyzes user symptoms to:
+AI Triage, kullanıcıların semptomlarını analiz ederek:
 
-- Determine risk level (Low / Medium / High)
-- Recommend the appropriate medical department
-- Guide users to the right doctor
-- Support voice symptom input
-- Manage patient health profiles
-- Create chronic medication renewal requests
+- Risk seviyesini belirler (Düşük / Orta / Yüksek)
+- Uygun sağlık bölümünü önerir
+- Doktora yönlendirme sağlar
+- Sesli semptom girişini destekler
+- Hasta sağlık profilini yönetir
+- Kronik ilaç yenileme talebi oluşturur
 
-> ⚠️ This system does not provide medical diagnosis. It only provides AI-assisted pre-assessment.
+> ⚠️ Bu sistem tıbbi tanı koymaz. Sadece yapay zeka destekli ön değerlendirme sağlar.
 
-## 🛠 Technologies Used
+## 🛠 Kullanılan Teknolojiler
 
 **Frontend:**
 - React
@@ -30,13 +30,13 @@ AI Triage analyzes user symptoms to:
 - Groq (LLM)
 - Python Jose (JWT)
 
-**Database:**
+**Veritabanı:**
 - MySQL (Railway)
 
-**Deployment:**
+**Deploy:**
 - Render (Frontend & Backend)
 
-## 📂 Project Structure
+## 📂 Proje Yapısı
 
 ```
 ai-triage-mvp/
@@ -62,7 +62,7 @@ ai-triage-mvp/
         └── utils/
 ```
 
-## ⚙️ Installation
+## ⚙️ Kurulum
 
 **Backend:**
 ```bash
@@ -78,28 +78,28 @@ npm install
 npm run dev
 ```
 
-## 🔌 API Endpoints
+## 🔌 API Endpoint'leri
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | /register | Register |
-| POST | /login | Login |
-| GET | /profile | Get profile |
-| PUT | /profile | Update profile |
-| POST | /triage | AI analysis |
-| POST | /transcribe | Audio → Text |
-| GET | /medications | Medications |
-| GET | /triage/history | History |
+| Method | Endpoint | Açıklama |
+|--------|----------|----------|
+| POST | /register | Kayıt ol |
+| POST | /login | Giriş yap |
+| GET | /profile | Profil getir |
+| PUT | /profile | Profil güncelle |
+| POST | /triage | AI analiz |
+| POST | /transcribe | Ses → Metin |
+| GET | /medications | İlaçlar |
+| GET | /triage/history | Geçmiş |
 
-## 🌐 Live Demo
+## 🌐 Canlı Demo
 
 - **Frontend:** https://ai-triage-frontend.onrender.com
 - **Backend:** https://ai-triage-mvp-1.onrender.com
 - **API Docs:** https://ai-triage-mvp-1.onrender.com/docs
 
-## 👥 Developers
+## 👥 Geliştiriciler
 
-| Role | Name |
-|------|------|
+| Rol | İsim |
+|-----|------|
 | Frontend | Sudenas Baygın |
 | Backend | Rümeysa Kültüroğlu |
